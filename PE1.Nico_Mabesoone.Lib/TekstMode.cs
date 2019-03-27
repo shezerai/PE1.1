@@ -6,6 +6,9 @@ namespace PE1.Nico_Mabesoone.Lib
 {
     class TekstMode
     {
-        enum tekstMode { Normal,Reverse,Ascii}
+       public enum tekstMode { Normal,Reverse,Ascii};
+
+
+            
     }
 }
