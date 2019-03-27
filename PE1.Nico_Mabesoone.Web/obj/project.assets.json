@@ -11506,11 +11506,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\shezerai\\source\\repos\\PE1.Nico_Mabesoone.Web\\PE1.Nico_Mabesoone.Web\\PE1.Nico_Mabesoone.Web.csproj",
+      "projectUniqueName": "C:\\Users\\shezerai\\source\\repos\\PE1.Nico_Mabesoone.Web\\PE1.1\\PE1.Nico_Mabesoone.Web\\PE1.Nico_Mabesoone.Web.csproj",
       "projectName": "PE1.Nico_Mabesoone.Web",
-      "projectPath": "C:\\Users\\shezerai\\source\\repos\\PE1.Nico_Mabesoone.Web\\PE1.Nico_Mabesoone.Web\\PE1.Nico_Mabesoone.Web.csproj",
+      "projectPath": "C:\\Users\\shezerai\\source\\repos\\PE1.Nico_Mabesoone.Web\\PE1.1\\PE1.Nico_Mabesoone.Web\\PE1.Nico_Mabesoone.Web.csproj",
       "packagesPath": "C:\\Users\\shezerai\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\shezerai\\source\\repos\\PE1.Nico_Mabesoone.Web\\PE1.Nico_Mabesoone.Web\\obj\\",
+      "outputPath": "C:\\Users\\shezerai\\source\\repos\\PE1.Nico_Mabesoone.Web\\PE1.1\\PE1.Nico_Mabesoone.Web\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
