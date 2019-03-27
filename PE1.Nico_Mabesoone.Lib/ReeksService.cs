@@ -18,7 +18,6 @@ namespace PE1.Nico_Mabesoone.Lib
             }
             return getallen;
         }
-        afsd
 
         public static IEnumerable<int> GeefReeksEven(int min , int max)
         {
