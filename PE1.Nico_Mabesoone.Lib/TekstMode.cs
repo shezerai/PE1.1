@@ -4,11 +4,10 @@ using System.Text;
 
 namespace PE1.Nico_Mabesoone.Lib
 {
-    class TekstMode
+    public enum TekstMode
     {
-       public enum tekstMode { Normal,Reverse,Ascii};
-
-
-            
+       Normal,
+        Reverse,
+        Ascii
     }
 }
