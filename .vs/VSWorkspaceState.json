@@ -2,7 +2,10 @@
   "ExpandedNodes": [
     "",
     "\\PE1.Nico_Mabesoone.Lib",
-    "\\PE1.Nico_Mabesoone.Web"
+    "\\PE1.Nico_Mabesoone.Web",
+    "\\PE1.Nico_Mabesoone.Web\\Views",
+    "\\PE1.Nico_Mabesoone.Web\\Views\\Home"
   ],
+  "SelectedNode": "\\PE1.Nico_Mabesoone.Web\\Views\\Home\\Index.cshtml",
   "PreviewInSolutionExplorer": false
 }
