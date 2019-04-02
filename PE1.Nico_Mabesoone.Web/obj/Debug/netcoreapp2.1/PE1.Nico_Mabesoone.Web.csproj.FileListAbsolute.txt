@@ -62,3 +62,5 @@ C:\Users\shezerai\source\repos\PE1.Nico_Mabesoone.Web\PE1.1\PE1.Nico_Mabesoone.W
 C:\Users\shezerai\source\repos\PE1.Nico_Mabesoone.Web\PE1.1\PE1.Nico_Mabesoone.Web\obj\Debug\netcoreapp2.1\PE1.Nico_Mabesoone.Web.dll
 C:\Users\shezerai\source\repos\PE1.Nico_Mabesoone.Web\PE1.1\PE1.Nico_Mabesoone.Web\obj\Debug\netcoreapp2.1\PE1.Nico_Mabesoone.Web.pdb
 C:\Users\shezerai\source\repos\PE1.Nico_Mabesoone.Web\PE1.1\PE1.Nico_Mabesoone.Web\obj\Debug\netcoreapp2.1\PE1.Nico_Mabesoone.Web.csproj.CopyComplete
+C:\Users\shezerai\source\repos\PE1.Nico_Mabesoone.Web\PE1.1\PE1.Nico_Mabesoone.Web\bin\Debug\netcoreapp2.1\PE1.Nico_Mabesoone.Lib.dll
+C:\Users\shezerai\source\repos\PE1.Nico_Mabesoone.Web\PE1.1\PE1.Nico_Mabesoone.Web\bin\Debug\netcoreapp2.1\PE1.Nico_Mabesoone.Lib.pdb

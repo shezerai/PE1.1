@@ -1,0 +1,9 @@
+C:\Users\shezerai\source\repos\PE1.Nico_Mabesoone.Web\PE1.1\PE1.Nico_Mabesoone.Lib\obj\Debug\netcoreapp2.1\PE1.Nico_Mabesoone.Lib.csprojAssemblyReference.cache
+C:\Users\shezerai\source\repos\PE1.Nico_Mabesoone.Web\PE1.1\PE1.Nico_Mabesoone.Lib\obj\Debug\netcoreapp2.1\PE1.Nico_Mabesoone.Lib.csproj.CoreCompileInputs.cache
+C:\Users\shezerai\source\repos\PE1.Nico_Mabesoone.Web\PE1.1\PE1.Nico_Mabesoone.Lib\obj\Debug\netcoreapp2.1\PE1.Nico_Mabesoone.Lib.AssemblyInfoInputs.cache
+C:\Users\shezerai\source\repos\PE1.Nico_Mabesoone.Web\PE1.1\PE1.Nico_Mabesoone.Lib\obj\Debug\netcoreapp2.1\PE1.Nico_Mabesoone.Lib.AssemblyInfo.cs
+C:\Users\shezerai\source\repos\PE1.Nico_Mabesoone.Web\PE1.1\PE1.Nico_Mabesoone.Lib\bin\Debug\netcoreapp2.1\PE1.Nico_Mabesoone.Lib.deps.json
+C:\Users\shezerai\source\repos\PE1.Nico_Mabesoone.Web\PE1.1\PE1.Nico_Mabesoone.Lib\bin\Debug\netcoreapp2.1\PE1.Nico_Mabesoone.Lib.dll
+C:\Users\shezerai\source\repos\PE1.Nico_Mabesoone.Web\PE1.1\PE1.Nico_Mabesoone.Lib\bin\Debug\netcoreapp2.1\PE1.Nico_Mabesoone.Lib.pdb
+C:\Users\shezerai\source\repos\PE1.Nico_Mabesoone.Web\PE1.1\PE1.Nico_Mabesoone.Lib\obj\Debug\netcoreapp2.1\PE1.Nico_Mabesoone.Lib.dll
+C:\Users\shezerai\source\repos\PE1.Nico_Mabesoone.Web\PE1.1\PE1.Nico_Mabesoone.Lib\obj\Debug\netcoreapp2.1\PE1.Nico_Mabesoone.Lib.pdb

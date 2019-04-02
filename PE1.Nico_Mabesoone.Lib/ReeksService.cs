@@ -8,18 +8,18 @@ namespace PE1.Nico_Mabesoone.Lib
     {
 
 
-        public static IEnumerable<int> GeefReeks(int min,int max)
+        public  IEnumerable<int> GeefReeks(int min,int max)
         {
-            int[] getallen = new int[max];
+            List<int> getallen = new List<int>();
             while(min <= max)
             {
-                getallen[min] = min;
+                getallen.Add(min);
                 min++;
             }
             return getallen;
         }
 
-        public static IEnumerable<int> GeefReeksEven(int min , int max)
+        public  IEnumerable<int> GeefReeksEven(int min , int max)
         {
             List<int> getallen = new List<int>();
             while (min <= max)
@@ -48,9 +48,7 @@ namespace PE1.Nico_Mabesoone.Lib
                 min++;
             }
             return getallen;
-            
-
-        }
+                    }
 
         private bool isPriem(int number)
         {

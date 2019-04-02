@@ -7,17 +7,17 @@ using System.Net.Http;
 
 namespace PE1.Nico_Mabesoone.Lib
 {
-    class TekstService
+    public class TekstService
     {
-        public  async Task<String> GetTekst(IEnumerable<String> input, TekstMode mode)
+        public  async Task<String> GetTekst(String input, TekstMode mode)
         {
             if(mode == TekstMode.Normal)
             {
-                 return input.ToString();
+                 return input;
             }
             else if (mode ==TekstMode.Reverse)
             {
-                String teruggave = input.ToString();
+                String teruggave = input;
                 char[] welp = teruggave.ToCharArray();
                 return new String(welp);
             }
@@ -27,6 +27,10 @@ namespace PE1.Nico_Mabesoone.Lib
                 HttpResponseMessage eenResponse = new HttpResponseMessage();
                  eenResponse= await eenClient.GetAsync("http://artii.herokuapp.com/make?text=" + input);
                 return await eenResponse.Content.ReadAsStringAsync();
+            }
+            else
+            {
+                return "ERROR";
             }
            
         }
